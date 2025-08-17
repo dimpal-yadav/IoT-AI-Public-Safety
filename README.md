@@ -60,14 +60,9 @@ Current emergency solutions in tourist areas are often slow, fragmented, and dif
 
 ## 📦 Tech Stack
 
-| Tech            | Role                      |
-|-----------------|--------------------------|
-| ESP32           | Panic Button Hardware     |
-| Firebase        | Cloud backend, DB, Funcs  |
-| Node.js, Python | Backend, ML verification  |
-| Twilio API      | SMS/Call notifications    |
-| React.js        | Web dashboard             |
-| Google Maps API | Geofencing & Visualization|
+| ESP32 | Firebase | Node.js, Python | Twilio API | React.js | Google Maps API |
+|-------|----------|-----------------|------------|----------|-----------------|
+| Panic Button Hardware | Cloud backend, DB, Functions | Backend, ML verification | SMS/Call notifications | Web dashboard | Geofencing & Visualization |
 
 ---
 
