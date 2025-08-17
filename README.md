@@ -130,10 +130,8 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 ## 🙋 Maintainer
-
-Created and maintained by Nithish  
-Contact: nithisshhpersonal@gmail.com
-
+> **Need help?**  
+> Tag a maintainer or open a new [Issue](../../issues).
 ---
 <div align="center">
  🚨 Keeping public spaces safe, intelligently and instantly.
