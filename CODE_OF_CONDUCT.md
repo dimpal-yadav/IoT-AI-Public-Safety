@@ -29,8 +29,8 @@ Project maintainers and community members are here to help guide discussions, ad
 
 If you feel uncomfortable or witness behavior that doesn’t align with this spirit of kindness and respect, please contact:
 
-**Nithish Kumar D**  
-Email: nithishkumard333@gmail.com
+**Nithish Kanna D**  
+Email: nithisshhpersonal@gmail.com
 
 Your report will be treated with care, confidentiality, and respect.
 
