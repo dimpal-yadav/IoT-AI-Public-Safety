@@ -1,52 +1,139 @@
-## Which issue does this PR close?
+# 🛠️ Pull Request Template
 
+## 🏷️ PR Type
 <!--
-We generally require a GitHub issue to be filed for all bug fixes and enhancements and this helps us generate change logs for our releases. You can link an issue to this PR using the GitHub syntax. For example `Closes #123` indicates that this PR will close issue #123.
+Select the type of PR (check one):
+- [ ] 🐞 Bug Fix
+- [ ] ✨ Feature
+- [ ] 🛠️ Improvement / Refactor
+- [ ] 📚 Documentation
 -->
 
+---
+
+## 🔗 Related Issue
+<!--
+Link the GitHub issue this PR closes (if applicable).
+Example: `Closes #123`
+-->
 - Closes #.
 
-## Rationale for this change
+---
 
+## 📝 Rationale / Motivation
 <!--
- Why are you proposing this change? If this is already explained clearly in the issue then this section is not needed.
- Explaining clearly why changes are proposed helps reviewers understand your changes and offer better suggestions for fixes.  
+Explain why this change is necessary.
+- What problem does it solve?
+- How does it improve the project?
+- Any relevant context for reviewers.
 -->
 
-## What changes are included in this PR?
+---
 
+## ✨ Description of Changes
 <!--
-There is no need to duplicate the description in the issue here but it is sometimes worth providing a summary of the individual changes in this PR.
+Summarize changes with details:
+- What files/components were modified
+- Any new functionality added
+- Refactoring, cleanup, or optimizations
+- Nested bullet points for clarity
 -->
 
-## Are these changes tested?
+- **Frontend**
+  - Component A updated
+  - Component B refactored
+- **Backend / API**
+  - Endpoint X optimized
+  - Validation added
+- **Documentation**
+  - Updated README / Added usage example
 
+---
+
+## 🧪 Testing Instructions
 <!--
-We typically require tests for all PRs in order to:
-1. Prevent the code from being accidentally broken by subsequent changes
-2. Serve as another way to document the expected behavior of the code
-
-If tests are not included in your PR, please explain why (for example, are they covered by existing tests)?
+Step-by-step guide to test this PR:
+1. Setup or dependencies needed
+2. Actions to perform
+3. Expected results
+4. Mention automated tests coverage
 -->
 
-## Are there any user-facing changes?
+1. Pull branch and run `npm install`
+2. Start local server with `npm start`
+3. Navigate to `/feature-page` and verify functionality
+4. Run tests: `npm test` (all should pass)
+5. Verify edge cases
 
+---
+
+## 👀 Impact Assessment
 <!--
-If there are user-facing changes then we may require documentation to be updated before approving the PR.
+Analyze the impact of this PR:
+- User-facing changes (UI / UX)
+- Backend/API changes
+- Performance considerations
+- Security implications
+- Cross-browser / device impact
 -->
 
+---
+
+## 🖼️ Screenshots / GIFs (if applicable)
 <!--
-If there are any breaking changes to public APIs, please add the `api change` label.
--->
-## Screenshots 
-<!--
-Add any screenshots if there is any user facing changes , otherwise you can keep this section empty
+Add screenshots or GIFs demonstrating user-facing changes
 -->
 
-## Checklist 
-- [ ] My code follows the project’s coding style and guidelines  
-- [ ] My changes do not introduce new bugs or break existing functionality  
-- [ ] I have linked the related issue number in this PR (if applicable)  
-- [ ] I have added meaningful comments and documentation where necessary  
-- [ ] I have updated relevant tests or added new ones to cover my changes  
-- [ ] I have verified that all existing and new tests pass successfully  
+---
+
+## ⚡ Checklist
+- [ ] Code follows project’s coding style and guidelines
+- [ ] Changes are tested locally
+- [ ] Automated tests added/updated
+- [ ] Documentation updated (if applicable)
+- [ ] User-facing changes are documented
+- [ ] Related issue linked
+- [ ] No new warnings/errors introduced
+- [ ] All reviewers guidance addressed
+
+---
+
+## 🔖 Reviewer Notes
+<!--
+Tips for reviewers to focus on critical areas:
+- Areas with complex logic
+- Known limitations or trade-offs
+- Optional testing scenarios
+-->
+
+---
+
+## ⚠️ Breaking Changes
+<!--
+Document any backward-incompatible changes:
+- Public APIs
+- Config / env variables
+- Existing workflows
+-->
+
+---
+
+## 🏆 Optional Enhancements / Future Work
+<!--
+Ideas or improvements that can be implemented later:
+- UI improvements
+- Additional validations
+- Performance optimizations
+- Feature expansions
+-->
+
+---
+
+## 🎯 Priority / Impact Level
+<!--
+Indicate the priority and expected impact:
+- Low / Medium / High
+- Helps maintainers understand urgency and importance
+-->
+- Priority: High
+- Impact: Medium
