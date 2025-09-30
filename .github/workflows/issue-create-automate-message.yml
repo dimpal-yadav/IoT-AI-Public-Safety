@@ -16,19 +16,14 @@ jobs:
         with:
           script: |
             const issueNumber = context.issue.number;
-      - name: Add Comment to Issue
-        uses: actions/github-script@v6
-        with:
-          script: |
-            const issueNumber = context.issue.number;
 
             const commentBody1 = `
 Hello there! 👋 Thanks for opening this issue and contributing to our **IoT-AI-Public-Safety** project.
 
 **Here's what you need to know:**
 
-1.  **Issue Review:** Our maintainers will look at this soon and assign it to someone. Please be patient!
-2.  **Next Steps:** You can help us speed things up by making sure your issue is complete and follows our **[Contributing Guidelines](CONTRIBUTING.md)**.
+1.  **Issue Review:** Our maintainers will review and assign the issue. Please be patient!
+2.  **Next Steps:** You can help by ensuring your issue is complete and follows our **[Contributing Guidelines](CONTRIBUTING.md)**.
 3.  **Show Support:** If you like our project, remember to give the repository a ⭐!
 
 We appreciate your help!
@@ -40,3 +35,4 @@ We appreciate your help!
               body: commentBody1
             });
 
+            console.log('Comment added successfully.');
