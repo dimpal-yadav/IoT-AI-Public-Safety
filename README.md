@@ -116,6 +116,35 @@ Pull Request Flow:
 
 ---
 
+## 🏆 **GSSoC 2025 Guidelines**
+
+### 📋 **For Participants**
+
+#### ✅ **Do's**
+- ✅ **Read documentation** thoroughly before contributing
+- ✅ **Follow code style** and project structure
+- ✅ **Write descriptive** commit messages
+- ✅ **Test your changes** before submitting PR
+- ✅ **Be respectful** and collaborative
+- ✅ **Ask questions** if you're unsure about anything
+
+#### ❌ **Don'ts**
+- ❌ **Don't spam** with multiple PRs for same issue
+- ❌ **Don't copy code** without understanding
+- ❌ **Don't make unnecessary** changes
+- ❌ **Don't ignore** code review feedback
+- ❌ **Don't forget** to update documentation when needed
+
+### 🎯 **Contribution Levels**
+
+| Level | Description | Points | Badge |
+|-------|-------------|--------|-------|
+| 🥉 **Beginner** | Fix typos, update docs, minor bug fixes | 5-10 | ![Beginner](https://img.shields.io/badge/Level-Beginner-green) |
+| 🥈 **Intermediate** | Add features, improve UI/UX, performance | 15-25 | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-blue) |
+| 🥇 **Advanced** | Major features, architecture improvements | 30-50 | ![Advanced](https://img.shields.io/badge/Level-Advanced-red) |
+
+---
+
 ## 🗨 Issues and Discussions
 
 - 👉 [Report bugs, suggest features, or ask questions here](../../issues)
