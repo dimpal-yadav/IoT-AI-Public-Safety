@@ -115,6 +115,8 @@ Pull Request Flow:
 - Clear, atomic commits preferred
 
 ---
+## **GSSoc Banner**
+
 ![GSSoC Logo]([https://github.com/Subhradeep1708/Medicine-Reminder-App/blob/main/assets/images/gssoc%20logo.png](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210406180435/What-is-GirlScript-Summer-of-Code-and-How-to-Participate.png))
 
 🌟 **Exciting News...**
