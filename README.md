@@ -132,7 +132,7 @@ Pull Request Flow:
 - 🏆 Get recognized for their work
 - 📜 Receive certificates and swag!
 
-🎉 **I can’t wait to welcome new contributors** from GSSoC 2025 to this Medicine-Reminder-App project family! Let's build, learn, and grow together — one commit at a time. 🔥👨‍💻👩‍💻
+🎉 **I can’t wait to welcome new contributors** from GSSoC 2025 to this IoT-AI-Public-Safety project family! Let's build, learn, and grow together — one commit at a time. 🔥👨‍💻👩‍💻
 
 ## 🏆 **GSSoC 2025 Guidelines**
 
