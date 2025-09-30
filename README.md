@@ -117,7 +117,7 @@ Pull Request Flow:
 ---
 ## **GSSoc Banner**
 
-![GSSoC Logo]((https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210406180435/What-is-GirlScript-Summer-of-Code-and-How-to-Participate.png))
+![GSSoC Logo](https://github.com/dimpal-yadav/IoT-AI-Public-Safety/blob/main/GirlScript-Summer-of-Code.png)
 
 🌟 **Exciting News...**
 
