@@ -9,16 +9,16 @@
 
 <h3>📖 Table of Contents</h3> 
 
-- <a href="#overview"> Overview </a>
-
 - <a href="#project-dashboard"> Interactive Project Dashboard </a>
 - <a href="#project-insights"> Project Insights </a>
-- <a href="#demo"> Live Demo </a>
-- <a href="#screenshots"> Screenshots </a>
-- <a href="#core-features">Core Features</a>
-- <a href="#technology-stack"> Technology Stack </a>
-- <a href="#setup-instructions"> Setup Instructions </a>
-- <a href="#roadmap-enhancements">  Roadmap & Future Enhancements </a>
+- <a href="#summary"> Summary </a>
+- <a href="#project-overview"> Project Overview </a>
+- <a href="#key-features">Key Features</a>
+- <a href="#why-public-safety"> Why IoT-AI Public Safety? </a>
+- <a href="#tech-stack"> Tech Stack </a>
+- <a href="#getting-started"> Getting Started </a>
+- <a href="#roadmap"> Roadmap </a>
+- <a href="#branching-model"> Branching Model </a>
 - <a href="#acknowledgments">Acknowledgments</a>
 - <a href="#contact">Contact</a>
 - <a href="#how-to-contribute">How to Contribute</a>
@@ -92,8 +92,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 id="project-insights">📊 Project Insights</h2>
-## 📝 Summary
+<h2 id="summary"> 📝 Summary </h2>
 
 > A proactive IoT-AI emergency alert system for high-density tourist zones. Features physical panic buttons, AI-driven false alarm verification, and proximity-based notifications to authorities and civilians—ensuring faster, smarter, real-time public safety responses.
 
@@ -110,8 +109,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 id="project-insights">📊 Project Insights</h2>
-## 🚩 Project Overview
+<h2 id="project-overview"> 🚩 Project Overview </h2>
 
 > **IoT-AI Public Safety** is an open-source solution designed to revolutionize public safety in tourist hotspots and crowded public spaces. By combining accessible IoT hardware with intelligent, cloud-powered verification and location-aware communication, we empower both citizens and authorities with instant, actionable, and reliable emergency alerts.
 
@@ -136,8 +134,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 id="project-insights">📊 Project Insights</h2>
-## 🏆 Key Features
+<h2 id="key-features">🏆 Key Features</h2>
 
 - 🛠️ **Physical Panic Buttons:** Fast, language-free reporting at the point of incident.
 - 🤖 **AI-driven Verification:** Filters false alarms for more effective emergency response.
@@ -148,15 +145,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 id="project-insights">📊 Project Insights</h2>
-## 💡 Why IoT-AI Public Safety?
+<h2 id="why-public-safety?"> 💡 Why IoT-AI Public Safety? </h2>
 
 Current emergency solutions in tourist areas are often slow, fragmented, and difficult to access in panic situations. Our project puts a reliable, community-powered, and instantly verifiable alert system right where it’s needed most, leveraging the latest in IoT and AI for real, measurable impact.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 id="project-insights">📊 Project Insights</h2>
-## 📦 Tech Stack
+<h2 id="tech-stack"> 📦 Tech Stack </h2>
 
 | ESP32 | Firebase | Node.js, Python | Twilio API | React.js | Google Maps API |
 |-------|----------|-----------------|------------|----------|-----------------|
@@ -164,8 +159,7 @@ Current emergency solutions in tourist areas are often slow, fragmented, and dif
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 id="project-insights">📊 Project Insights</h2>
-## 🚀 Getting Started
+<h2 id="getting-started"> 🚀 Getting Started</h2>
 
 **Clone the Repository:**
 
@@ -175,13 +169,11 @@ Current emergency solutions in tourist areas are often slow, fragmented, and dif
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 id="project-insights">📊 Project Insights</h2>
-## 🗂 Project Structure
+<h2 id="project-structure">🗂 Project Structure</h2>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 id="project-insights">📊 Project Insights</h2>
-## 🛣 Roadmap
+<h2 id="roadmap">🛣 Roadmap</h2>
 
 - [ ] Hardware prototype (panic button & firmware)
 - [ ] Cloud alert endpoint & database
@@ -194,8 +186,7 @@ See [docs/roadmap.md](docs/roadmap.md) for detailed info and to suggest improvem
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 id="project-insights">📊 Project Insights</h2>
-## 🌿 Branching Model
+<h2 id="branching-model"> 🌿 Branching Model </h2>
 
 - **dev**: Ongoing development. All PRs should target `dev` branch.
 - Feature branches: `feature/<name>` or `bugfix/<name>`
@@ -228,7 +219,9 @@ Pull Request Flow:
 ## 🙋 Maintainer
 > **Need help?**  
 > Tag a maintainer or open a new [Issue](../../issues).
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <div align="center">
  🚨 Keeping public spaces safe, intelligently and instantly.
 </div>
@@ -243,7 +236,7 @@ Report bugs and issues or propose improvements through our GitHub repository's "
 
 ## Contribution Guidelines 📑
 
-- Firstly Star(⭐) the Repository
+- Firstly Star (⭐) the Repository
 - Fork the Repository and create a new branch for any updates/changes/issue you are working on.
 - Start Coding and do changes.
 - Commit your changes
