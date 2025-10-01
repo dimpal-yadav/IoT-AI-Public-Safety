@@ -115,7 +115,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-![GSSoC Logo](/IoT-AI-Public-Safety/gssoc%20logo.png)
+![GSSoC Logo](https://github.com/Nithish-o7/IoT-AI-Public-Safety/blob/main/gssoc%20logo.png)
 
 🌟 **Exciting News...**
 
